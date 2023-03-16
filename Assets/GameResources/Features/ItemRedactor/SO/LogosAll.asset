@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2657baf7e245ea94ebd62912c5015419, type: 3}
+  m_Name: LogosAll
+  m_EditorClassIdentifier: 
+  Forms:
+  - ItemSprites:
+    - {fileID: 21300000, guid: 83442855d7451ad488c6de222b426be0, type: 3}
+    - {fileID: 21300000, guid: 42d5eb92bee7e9143af0b1905a700030, type: 3}
+    - {fileID: 21300000, guid: a65c5ac1d9e4b2a42bf1fcff3f5b2c4d, type: 3}
+    - {fileID: 21300000, guid: 9c1f3caabb85e094bab0e85044197873, type: 3}
+    CoutColoredItems: 4
+  - ItemSprites:
+    - {fileID: 21300000, guid: 75465dc055151224f8640658c6046763, type: 3}
+    - {fileID: 21300000, guid: c9e9d7f348701c74294e3bb6cf581de8, type: 3}
+    - {fileID: 21300000, guid: 36632a3032450c847a24eda18eb21b4d, type: 3}
+    - {fileID: 21300000, guid: 1cd8672413274694d89f60a73789cde7, type: 3}
+    CoutColoredItems: 4
